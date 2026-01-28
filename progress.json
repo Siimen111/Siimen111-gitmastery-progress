@@ -104,34 +104,5 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1769592845.835372,
-    "completed_at": 1769592851.88107,
-    "comments": [
-      "You are still ignoring many/file22.txt.",
-      "You should not be ignoring this/is/very/nested/find_me.txt!",
-      "You should be using ** to match all subfolders to ignore runaway.txt."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1769593084.275932,
-    "completed_at": 1769593089.148952,
-    "comments": [
-      "You are not ignoring runaway.txt. Find where the file is and fix that."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1769593144.520083,
-    "completed_at": 1769593149.289526,
-    "comments": [
-      "You should be using ** to match all subfolders to ignore runaway.txt."
-    ],
-    "status": "Incomplete"
   }
 ]
