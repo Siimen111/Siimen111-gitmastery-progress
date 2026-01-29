@@ -212,23 +212,5 @@
       "Great work traversing the revision history!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-reset",
-    "started_at": 1769665561.931886,
-    "completed_at": 1769665565.738455,
-    "comments": [
-      "You have reset the repository to the correct state!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-reset",
-    "started_at": 1769665922.102614,
-    "completed_at": 1769665928.225644,
-    "comments": [
-      "It seems like the last two commits for Jan 14 and Jan 15 are still present in the commit history."
-    ],
-    "status": "Incomplete"
   }
 ]
